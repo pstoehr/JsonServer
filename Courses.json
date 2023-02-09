@@ -1,0 +1,640 @@
+{
+    "version": 3.5,
+    "courses": [
+        {
+            "course": "BW",
+            "year": "2022",
+            "labels": {
+                "de": "Betriebswirtschaft",
+                "en": "Business Administration"
+            },
+            "semester": [
+                "1",
+                "1d",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ]
+        },
+        {
+            "course": "BW dual",
+            "year": "2022",
+            "labels": {
+                "de": "Betriebswirtschaft dual",
+                "en": "Business Administration dual"
+            },
+            "semester": [
+                "7"
+            ]
+        },
+        {
+            "course": "CS",
+            "year": "2022",
+            "labels": {
+                "de": "Computer Science",
+                "en": "Computer Science International"
+            },
+            "semester": [
+                "2",
+                "4"
+            ]
+        },
+        {
+            "course": "DM",
+            "year": "2022",
+            "labels": {
+                "de": "Design und Mobiltät",
+                "en": "Design and Mobility"
+            },
+            "semester": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "course": "ET",
+            "year": "2022",
+            "labels": {
+                "de": "Elektrotechnik",
+                "en": "Electrical Engineering"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Inf",
+            "year": "2022",
+            "labels": {
+                "de": "Informatik",
+                "en": "Computer Science"
+            },
+            "semester": [
+                "EXC1",
+                "DA12",
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "IMB",
+            "year": "2022",
+            "labels": {
+                "de": "Ingenieurwissenschaften (modular)",
+                "en": "Engineering Sciences (modular)"
+            },
+            "semester": [
+                "1"
+            ]
+        },
+        {
+            "course": "IG",
+            "year": "2022",
+            "labels": {
+                "de": "Innovative Gesundheitsversorgung",
+                "en": "Innovative Healthcare"
+            },
+            "semester": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "course": "InnoTex",
+            "year": "2022",
+            "labels": {
+                "de": "Innovative Textilien",
+                "en": "Innovative Textiles"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "IM",
+            "year": "2022",
+            "labels": {
+                "de": "Internationales Management",
+                "en": "International Management"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "KD",
+            "year": "2022",
+            "labels": {
+                "de": "Kommunikationsdesign",
+                "en": "Communication Design"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5"
+            ]
+        },
+        {
+            "course": "MB",
+            "year": "2022",
+            "labels": {
+                "de": "Maschinenbau",
+                "en": "Mechanical Engineering"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Master ARC",
+            "year": "2022",
+            "labels": {
+                "de": "Master Applied Research in Computer Science",
+                "en": "Master Applied Research in Computer Science"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master CID",
+            "year": "2022",
+            "labels": {
+                "de": "Master Compliance, IT und Datenschutz",
+                "en": "\tMaster Compliance, IT und Datenschutz"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "course": "Master CIF",
+            "year": "2022",
+            "labels": {
+                "de": "Master Compliance, IT und Datenschutz - Forschung",
+                "en": "Master Compliance, IT und Datenschutz - Forschung"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "course": "Master DBM",
+            "year": "2022",
+            "labels": {
+                "de": "Master Digital Business Management",
+                "en": "Master Digital Business Management"
+            },
+            "semester": [
+                "1u2"
+            ]
+        },
+        {
+            "course": "Master DT",
+            "year": "2022",
+            "labels": {
+                "de": "Master Digitale Transformation",
+                "en": "Master Digital Transformation"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "course": "Master DI",
+            "year": "2022",
+            "labels": {
+                "de": "Master Digitalization and Innovation",
+                "en": "Master Digitalization and Innovation"
+            },
+            "semester": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "course": "Master GMA",
+            "year": "2022",
+            "labels": {
+                "de": "Master General Management",
+                "en": "Master General Management"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master GM",
+            "year": "2022",
+            "labels": {
+                "de": "Master Global Management",
+                "en": "Master Global Management"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master Inf",
+            "year": "2022",
+            "labels": {
+                "de": "Master Informatik",
+                "en": "Master Informatik"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master IPM",
+            "year": "2022",
+            "labels": {
+                "de": "Master Internationales Projektmanagement",
+                "en": "Master International Project Management"
+            },
+            "semester": [
+                "1u2",
+                "3u4"
+            ]
+        },
+        {
+            "course": "Master L",
+            "year": "2022",
+            "labels": {
+                "de": "Master Logistik",
+                "en": "Master Supply Chain Management"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master M",
+            "year": "2022",
+            "labels": {
+                "de": "Master Marketing Management",
+                "en": "Master Marketing Management"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master MB",
+            "year": "2022",
+            "labels": {
+                "de": "Master Maschinenbau",
+                "en": "Master Mechanical Engineering"
+            },
+            "semester": [
+                "1u2",
+                "3u4"
+            ]
+        },
+        {
+            "course": "Master OE",
+            "year": "2022",
+            "labels": {
+                "de": "Master Operational Excellence",
+                "en": "Master Operational Excellence"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master PA",
+            "year": "2022",
+            "labels": {
+                "de": "Master Personal und Arbeit",
+                "en": "Master Human Resource Management and Labor Law"
+            },
+            "semester": [
+                "1u2",
+                "3"
+            ]
+        },
+        {
+            "course": "Master PM",
+            "year": "2022",
+            "labels": {
+                "de": "Master Projektmanagement",
+                "en": "Master Project Management"
+            },
+            "semester": [
+                "3u4"
+            ]
+        },
+        {
+            "course": "Master SWE",
+            "year": "2022",
+            "labels": {
+                "de": "Master Software Engineering",
+                "en": "Master Software Engineering for Industrial Applications"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "course": "Master ST",
+            "year": "2022",
+            "labels": {
+                "de": "Master Sustainable Textiles",
+                "en": "Master Sustainable Textiles"
+            },
+            "semester": [
+                "1u2",
+                "3u4"
+            ]
+        },
+        {
+            "course": "Master SWM",
+            "year": "2022",
+            "labels": {
+                "de": "Master Sustainable Water Management and Engineering",
+                "en": "Master Sustainable Water Management and Engineering"
+            },
+            "semester": [
+                "1u2",
+                "3u4"
+            ]
+        },
+        {
+            "course": "Master VW",
+            "year": "2022",
+            "labels": {
+                "de": "Master Verbundwerkstoffe",
+                "en": "Master Composite Materials"
+            },
+            "semester": [
+                "1u2",
+                "3u4"
+            ]
+        },
+        {
+            "course": "MD",
+            "year": "2022",
+            "labels": {
+                "de": "Mediendesign",
+                "en": "Media Design"
+            },
+            "semester": [
+                "7"
+            ]
+        },
+        {
+            "course": "MI",
+            "year": "2022",
+            "labels": {
+                "de": "Medieninformatik",
+                "en": "Media Informatics"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "MC",
+            "year": "2022",
+            "labels": {
+                "de": "Mobile Computing",
+                "en": "Mobile Computing"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Sprache",
+            "year": "2022",
+            "labels": {
+                "de": "Sprachenprogramm",
+                "en": "Language Programme"
+            },
+            "semester": [
+                "Deut",
+                "Tür",
+                "Span",
+                "Russ",
+                "Fran",
+                "Engl",
+                "Chin"
+            ]
+        },
+        {
+            "course": "Master SM",
+            "year": "2022",
+            "labels": {
+                "de": "Sustainability Management",
+                "en": "Sustainability Management"
+            },
+            "semester": [
+                "2",
+                "3"
+            ]
+        },
+        {
+            "course": "TD",
+            "year": "2022",
+            "labels": {
+                "de": "Textildesign",
+                "en": "Textile Design"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "UT",
+            "year": "2022",
+            "labels": {
+                "de": "Umweltingenieurwesen",
+                "en": "Environmental Engineering"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Vinf",
+            "year": "2022",
+            "labels": {
+                "de": "Verwaltungsinformatik bis Jhg. 2020-23",
+                "en": "Information Systems in Public Administration"
+            },
+            "semester": [
+                "5"
+            ]
+        },
+        {
+            "course": "VIN H",
+            "year": "2022",
+            "labels": {
+                "de": "Verwaltungsinformatik HfoeD",
+                "en": "Information Systems in Public Administration HfoeD"
+            },
+            "semester": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "course": "WT",
+            "year": "2022",
+            "labels": {
+                "de": "Werkstofftechnik",
+                "en": "Materials Engineering"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "WOS",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschafts- und Organisationssoziologie",
+                "en": "Economic and Organization Sociology"
+            },
+            "semester": [
+                "1",
+                "3"
+            ]
+        },
+        {
+            "course": "WI",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftsinformatik",
+                "en": "Business Information Systems"
+            },
+            "semester": [
+                "DA2",
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Wing Int",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftsingenieurwesen International",
+                "en": "Industrial Engineering - International"
+            },
+            "semester": [
+                "3"
+            ]
+        },
+        {
+            "course": "Wing PP",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftsingenieurwesen Produktion- und Prozessmanagement",
+                "en": "Industrial Engineering - Production- and Process-Management"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "Wing WT",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftsingenieurwesen Werkstofftechnik",
+                "en": "Industrial Engineering - Materials Engineering"
+            },
+            "semester": [
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "WP",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftspsychologie",
+                "en": "Economic Psychology"
+            },
+            "semester": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "course": "WR",
+            "year": "2022",
+            "labels": {
+                "de": "Wirtschaftsrecht",
+                "en": "Business Law"
+            },
+            "semester": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ]
+        }
+    ]
+}
