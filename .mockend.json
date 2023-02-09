@@ -6,10 +6,9 @@
 	{ "name": "John Doe", "online": true, "picture": "https" }
       ]
     },
-    // Use random generators
     "name": { "string": {} },
     "online": { "boolean": {} },
-    "picture": { "regexp": "https },
+    "picture": { "regexp": "https"},
     "posts": { "hasMany": "Post" }
   }
 }
